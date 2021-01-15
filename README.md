@@ -1,4 +1,5 @@
 # MinecraftAFK
+Useful python script that makes you rejoin your server if kicked due to afk time out
 Before running the script make sure you have the following plugins installed:
 1) pyautogui
 2) keyboard
